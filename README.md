@@ -1,5 +1,4 @@
-# SeleniumSD
-## Proyecto de SD
+# Proyecto de SD - Selenium
 ### Álvaro Orellana Serrano
 ### Marina Ramirez Vela
 #### Manuel Coca Alba
