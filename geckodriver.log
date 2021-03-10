@@ -1,0 +1,81 @@
+1614942511595	geckodriver	INFO	Listening on 127.0.0.1:37253
+1614942511599	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileb2dRLf"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614942515060	Marionette	INFO	Listening on port 46267
+1614942515170	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1614942517458	Marionette	INFO	Stopped listening on port 46267
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 927: Error: Connection is not open.
+1614942529677	geckodriver	INFO	Listening on 127.0.0.1:37193
+1614942529681	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4pcJDz"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614942532499	Marionette	INFO	Listening on port 46787
+1614942532602	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1614942535596	Marionette	INFO	Stopped listening on port 46787
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 927: Error: Connection is not open.
+1614942572436	geckodriver	INFO	Listening on 127.0.0.1:58997
+1614942572440	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3mKblF"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614942575795	Marionette	INFO	Listening on port 35935
+1614942575902	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614942579656	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1614942612974	Marionette	INFO	Stopped listening on port 35935
+1614943216427	geckodriver	INFO	Listening on 127.0.0.1:37845
+1614943216432	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQR8dEW"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614943219703	Marionette	INFO	Listening on port 42805
+1614943219763	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614943221800	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1614943553362	Marionette	INFO	Stopped listening on port 42805
+1614943612740	geckodriver	INFO	Listening on 127.0.0.1:37919
+1614943612744	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilej6SVtS"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614943616223	Marionette	INFO	Listening on port 35881
+1614943616281	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614943619845	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1614943627369	Marionette	INFO	Stopped listening on port 35881
+1614943713366	geckodriver	INFO	Listening on 127.0.0.1:45687
+1614943713371	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile89zzbp"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614943716369	Marionette	INFO	Listening on port 43035
+1614943716413	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614943718919	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1614943788803	geckodriver	INFO	Listening on 127.0.0.1:33705
+1614943788807	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1pe0Jb"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614943792646	Marionette	INFO	Listening on port 46599
+1614943792732	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1614943795723	Marionette	INFO	Stopped listening on port 46599
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 927: Error: Connection is not open.
+1614943908553	Marionette	INFO	Stopped listening on port 43035
+1614944600550	geckodriver	INFO	Listening on 127.0.0.1:34847
+1614944600555	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJZ0aBw"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614944604308	Marionette	INFO	Listening on port 43517
+1614944604380	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614944607516	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1614944613883	Marionette	INFO	Stopped listening on port 43517
+JavaScript error: /_/mss/boq-identity/_/js/k=boq-identity.ConsentUi.es.-NIoUpAM9Ts.es5.O/am=C8A/d=1/excm=_b,_tp,displayintroui/ed=1/dg=0/wt=2/ct=zgms/rs=AOaEmlEhKPYh0CtkatO5laaacs3vU3quhg/m=_b,_tp, line 489: NS_ERROR_NOT_INITIALIZED: 
+1614944634706	geckodriver	INFO	Listening on 127.0.0.1:37585
+1614944634713	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMnA29v"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614944638177	Marionette	INFO	Listening on port 43661
+1614944638242	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614944640276	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1614944642767	Marionette	INFO	Stopped listening on port 43661
+1614944662082	geckodriver	INFO	Listening on 127.0.0.1:43845
+1614944662087	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileneyVt0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614944665367	Marionette	INFO	Listening on port 42051
+1614944665451	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614944668216	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1614944673094	Marionette	INFO	Stopped listening on port 42051
+1614944826775	geckodriver	INFO	Listening on 127.0.0.1:39477
+1614944826781	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSk0H19"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614944831322	Marionette	INFO	Listening on port 45405
+1614944831409	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614944839810	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1614944841705	Marionette	INFO	Stopped listening on port 45405
